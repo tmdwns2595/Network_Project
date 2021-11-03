@@ -10,3 +10,10 @@ server와 client 코드를 나눠서 작성을 했다. server는 접속한 clien
 </div>
 
 ## Display
+- server 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140120433-85167a91-5745-43f6-95ef-bac0214b1e14.png"/>
+
+- client 화면
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140120464-8e8bc6a7-8be5-475f-913c-8600334147c4.png"/>
+
+- client 접속화면
