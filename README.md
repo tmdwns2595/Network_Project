@@ -23,6 +23,8 @@ server와 client 코드를 나눠서 작성을 했다. server는 접속한 clien
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140123740-b765bd39-c08c-458c-a844-f7c67aa1721e.png"/>
 
 - client들은 메시지를 보내거나, 그림을 그리면 공유된다. 
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123683-5af0102f-9c06-4ab5-a5d3-da8c8ca55c45.png"/>
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123718-f312af89-fef4-463e-b9f0-6b16f5ddda84.png"/>
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123730-7a9bba74-4e86-441f-a39e-111a4c0a42d9.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140128599-8f665835-0791-4a65-be31-18043a31d1ce.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140128609-fcdea698-d1a9-4a2d-9667-cdbb5d2bb282.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140128622-dd9d590a-655c-4c7d-9f1a-30980365cbeb.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140128564-a7d1dfa1-28a1-4167-a88a-475b01735344.png"/>
+
