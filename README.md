@@ -16,4 +16,13 @@ server와 client 코드를 나눠서 작성을 했다. server는 접속한 clien
 - client 화면
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140120464-8e8bc6a7-8be5-475f-913c-8600334147c4.png"/>
 
-- client 접속화면
+- server의 client 관리 화면(메시지 대화가 가능하며, server는 강제로 client의 접속을 끊을 수 있다.)
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123683-5af0102f-9c06-4ab5-a5d3-da8c8ca55c45.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123718-f312af89-fef4-463e-b9f0-6b16f5ddda84.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123730-7a9bba74-4e86-441f-a39e-111a4c0a42d9.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123740-b765bd39-c08c-458c-a844-f7c67aa1721e.png"/>
+
+- client들은 메시지를 보내거나, 그림을 그리면 공유된다. 
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123683-5af0102f-9c06-4ab5-a5d3-da8c8ca55c45.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123718-f312af89-fef4-463e-b9f0-6b16f5ddda84.png"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140123730-7a9bba74-4e86-441f-a39e-111a4c0a42d9.png"/>
